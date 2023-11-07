@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "299544280265",
+    "firebase_url": "https://facedec-2532e-default-rtdb.firebaseio.com",
+    "project_id": "facedec-2532e",
+    "storage_bucket": "facedec-2532e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299544280265:android:0d215798ee32b799ff2118",
+        "android_client_info": {
+          "package_name": "com.example.chatscene"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkXOvzVCZnKs-LIm7GbOUs79iBo7cRHXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299544280265:android:3389e03d79405739ff2118",
+        "android_client_info": {
+          "package_name": "com.example.onroadvehiclebreakdown"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkXOvzVCZnKs-LIm7GbOUs79iBo7cRHXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

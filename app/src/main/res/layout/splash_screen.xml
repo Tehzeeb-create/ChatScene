@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1F1022">
+
+    <ImageView
+        android:id="@+id/couple"
+        android:layout_width="276dp"
+        android:layout_height="389dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:src="@drawable/couple" />
+
+    <TextView
+        android:id="@+id/presentByText"
+        android:layout_width="189dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/couple"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="111dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="111dp"
+        android:text="Presented by"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+
+    <ImageView
+        android:id="@+id/airtribe"
+        android:layout_width="203dp"
+        android:layout_height="129dp"
+        android:layout_below="@id/presentByText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="38dp"
+        android:src="@drawable/airtribe" />
+
+
+
+</RelativeLayout>
